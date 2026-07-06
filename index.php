@@ -1,1 +1,8 @@
 <?php
+ 
+
+
+$enrengistrerCommande();
+
+
+$assignerLivreur();
